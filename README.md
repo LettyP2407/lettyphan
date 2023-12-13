@@ -3,4 +3,4 @@
 
 [retails analytic](https://linkmehere.com)
 business intelligence
-data scinece
+data science
