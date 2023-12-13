@@ -1,6 +1,6 @@
 # lettyphan cal poly Github
 ## projects:
 
-[retails analytic](https://linkmehere.com)
-business intelligence
-data science
+1. [retails analytic](https://linkmehere.com)
+2. business intelligence
+3. data science
